@@ -1,0 +1,37 @@
+
+h2{
+    color:greenyellow;
+    background-color: rgb(179, 109, 45);
+}
+#max{
+    background-color: cornflowerblue;
+}
+#min{
+    background-color: darkviolet;
+}
+#small{
+    background-color: darkcyan;
+}
+#big{
+    background-color: darksalmon;
+}
+#large{
+    background-color:blueviolet
+}
+#do{
+    background-color: darkolivegreen;
+}
+#this{
+    background-color: rgb(44, 204, 105);
+}
+#work{
+    background-color: rgb(189, 47, 134);
+}
+#hard{
+    background-color: forestgreen;
+}
+#you{
+    background-color: lightcoral;
+}#me{
+    background-color: lightsalmon;
+}
